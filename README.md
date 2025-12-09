@@ -30,5 +30,5 @@ This project is great for:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-user/NotesFastAPI.git
+git clone https://github.com/GeorgesSchmidt/FasAPIexample.git
 cd NotesFastAPI
